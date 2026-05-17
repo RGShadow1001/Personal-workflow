@@ -65,7 +65,7 @@ I am always looking for collaborators who aren't afraid of a **"Guru Meditation 
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rgshadow1001&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RGShadow1001&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgshadow1001&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
