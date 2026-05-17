@@ -62,5 +62,14 @@ I am always looking for collaborators who aren't afraid of a **"Guru Meditation 
 ---
 
 ### 📊 Vital Signs
-![Shaurya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rgshadow1001&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rgshadow1001&layout=compact&theme=tokyonight)
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rgshadow1001&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgshadow1001&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rgshadow1001&theme=tokyonight" alt="GitHub Streak" />
+</p>
