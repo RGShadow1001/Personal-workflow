@@ -55,7 +55,7 @@ I treat my OS as an engineered project. My environment is a **Custom HUD** desig
 I am always looking for collaborators who aren't afraid of a **"Guru Meditation Error."**
 
 - **Base Operations:** Kanpur, UP, India
-- **Identity:** `rgshadow`
+- **Identity:** `Shaurya Pratap Singh / rgshadow`
 - **Current Research:** Neural Voice Interfaces & Remote IDE Optimization
 - **Motto:** *"Local optimization applied over a long duration leads to global success."*
 
